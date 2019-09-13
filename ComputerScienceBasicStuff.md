@@ -1,6 +1,6 @@
 C Programming Language
 ----------------------
-1. Let Us C by Yashavant-Kanetkar, Link --> https://www.amazon.in/Let-Us-16TH-Yashavant-Kanetkar/dp/9387284492
+1. [Let Us C by Yashavant-Kanetkar](https://www.amazon.in/Let-Us-16TH-Yashavant-Kanetkar/dp/9387284492)
 2. C in Depth, Link --> https://www.amazon.in/C-Depth-Deepali-Srivastava/dp/8183330487
 3. Pointer in C, Link --> https://www.amazon.in/Understanding-Pointers-Revised-examples-Applications/dp/B07HLV4JVL
 4. Test your C skills Link --> https://www.amazon.in/Test-Your-Skills-Yashavant-Kanetkar/dp/8183331181
