@@ -39,9 +39,9 @@
  
 ## Coding Practice Websites
 
-0. Geeksforgeeks
-1. LeetCode
-2. HackerRank
-3. Codechef
-4. Spoj
-5. Topcoders
+0. [Geeksforgeeks](https://www.geeksforgeeks.org)
+1. [LeetCode](https://leetcode.com)
+2. [HackerRank](https://www.hackerrank.com)
+3. [Codechef](https://www.codechef.com)
+4. [Spoj](https://www.spoj.com)
+5. [Topcoder](http://www.topcoder.com/challenges)
